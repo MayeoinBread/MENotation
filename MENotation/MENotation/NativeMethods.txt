@@ -1,0 +1,3 @@
+﻿Windows.Graphics.DirectWrite.*
+Windows.Graphics.*
+Windows.Foundation.*
